@@ -4,7 +4,7 @@ import Products from "../components/Products";
 const Home = () => {
   return (
     <div>
-      <h2>welcome to the redux toolkit</h2>
+      <h2>SHOPPING CART : REDUX TOOLKIT</h2>
       <section>
         <h3>Products</h3>
         <Products />
